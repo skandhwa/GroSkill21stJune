@@ -1,0 +1,8 @@
+Utilities\GetDataFromExcel.class
+StepDefinition\TestRunner.class
+Utilities\BaseClass.class
+Pagefactory\CreateCustomerPageNew.class
+Utilities\ReadDataFromProperty.class
+StepDefinition\stepDefinition.class
+thDecemberCucumber\Batch3Scratch\AppTest.class
+Pagefactory\LoginScenario.class
